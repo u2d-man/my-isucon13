@@ -1,6 +1,6 @@
 # original
-https://github.com/isucon/isucon13
-
+https://github.com/isucon/isucon13 <br>
+このリポジトリは上記リポジトリを自身の学習用に clone したものです。
 
 # ISUCON13 問題
 
